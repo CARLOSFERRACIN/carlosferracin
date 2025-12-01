@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Ferracin
 
-🎯 **Staff II Software Engineer @ Neon**  
+🎯 **Staff II Software Engineer**  
 🚀 Specialist in backend systems, cloud-native architecture, and real-time financial platforms  
 🛠 .NET | AWS | Kubernetes | Kafka | Temporal | Microservices | GrowthBook  
 🌍 Based in Brazil | Working remotely
